@@ -1,1 +1,1 @@
-# test-task-DINS-
+# test task (DINS)
